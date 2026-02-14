@@ -1,25 +1,28 @@
 {
   "banners": [
     {
-      "type": "text",
+      "type": "image",
       "network": "Daraz",
       "link": "https://s.daraz.pk/s.17CSW?cc",
+      "image": "https://img.drz.lazcdn.com/g/kf/S2dd92dd1db7b46c1bd75950f6ccedd28z.jpg_720x720q80.jpg_.webp",
       "text": "M10 and i12 TWS Wireless Bluetooth Earbuds",
       "subtitle": "Limited Time - Hurry!"
     },
     {
-      "type": "text",
+      "type": "image",
       "network": "Daraz",
       "link": "https://s.daraz.pk/s.17Ck2?cc",
+      "image": "https://img.drz.lazcdn.com/static/pk/p/bdaa82504edde60ddfa3c041e0516457.jpg_720x720q80.jpg_.webp",
       "text": "Pack of 2 Fashion Mens Stainless Steel Watches",
       "subtitle": "Limited Time - Hurry!"
     },
     {
-      "type": "text",
+      "type": "image",
       "network": "Daraz",
       "link": "https://s.daraz.pk/s.17COk?cc",
+      "image": "https://img.drz.lazcdn.com/static/pk/p/640b173ad3acdaa435c6f7dfc190891a.jpg_720x720q80.jpg_.webp",
       "text": "Premium Laptop bag, Travel bag",
-      "subtitle": "Product Price: Rs.999 Discount Price: Rs.506"
+      "subtitle": "Price: Rs.999 Now: Rs.506"
     }
   ]
 }
