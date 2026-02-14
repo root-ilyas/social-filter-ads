@@ -1,21 +1,25 @@
 {
-  "type": "text",
-  "network": "Daraz",
-  "link": "https://s.daraz.pk/s.17CSW?cc",
-  "text": "M10 and i12 TWS Wireless Bluetooth Earbuds",
-  "subtitle": "Limited Time - Hurry!"
-}
-{
-  "type": "text",
-  "network": "Daraz",
-  "link": "https://s.daraz.pk/s.17Ck2?cc",
-  "text": "Pack of 2 Fashion Mens Stainless Steel Watches",
-  "subtitle": "Limited Time - Hurry!"
-}
-{
-  "type": "text",
-  "network": "Daraz",
-  "link": "https://s.daraz.pk/s.17COk?cc",
-  "text": "Premium Laptop bag, Travel bag",
-  "subtitle": "Product Price:  Rs.999 Discount Price:  Rs.506"
+  "banners": [
+    {
+      "type": "text",
+      "network": "Daraz",
+      "link": "https://s.daraz.pk/s.17CSW?cc",
+      "text": "M10 and i12 TWS Wireless Bluetooth Earbuds",
+      "subtitle": "Limited Time - Hurry!"
+    },
+    {
+      "type": "text",
+      "network": "Daraz",
+      "link": "https://s.daraz.pk/s.17Ck2?cc",
+      "text": "Pack of 2 Fashion Mens Stainless Steel Watches",
+      "subtitle": "Limited Time - Hurry!"
+    },
+    {
+      "type": "text",
+      "network": "Daraz",
+      "link": "https://s.daraz.pk/s.17COk?cc",
+      "text": "Premium Laptop bag, Travel bag",
+      "subtitle": "Product Price: Rs.999 Discount Price: Rs.506"
+    }
+  ]
 }
