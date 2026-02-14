@@ -1,0 +1,21 @@
+{
+  "type": "text",
+  "network": "Daraz",
+  "link": "https://daraz.pk/flash-sale?affiliate_id=YOUR_ID",
+  "text": "⚡ Flash Sale - Up to 90% OFF!",
+  "subtitle": "Limited Time - Hurry!"
+}
+{
+  "type": "text",
+  "network": "Daraz",
+  "link": "https://daraz.pk/iphone?affiliate_id=YOUR_ID",
+  "text": "📱 iPhone 15 Pro - Lowest Price!",
+  "subtitle": "Free Delivery + 0% Installments"
+}
+{
+  "type": "text",
+  "network": "Daraz",
+  "link": "https://daraz.pk/ramadan?affiliate_id=YOUR_ID",
+  "text": "🌙 Ramadan Sale - Save Big!",
+  "subtitle": "Food, Dates, Islamic Products"
+}
